@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @PepeTheBuilder
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning at Technical University of Cluj-Napoca
-- I own the projects on this account and on my other account https://github.com/PT202330421PaulPetrut  (due to university guidelines)
