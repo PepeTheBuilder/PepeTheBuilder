@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @PepeTheBuilder
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning at Technical University of Cluj-Napoca
+- 🌱 I’m currently learning at the Technical University of Cluj-Napoca
+- 🔧 And working at Robert Bosch 
